@@ -1,0 +1,4 @@
+C:\Users\Андрей\source\repos\291020\291020\bin\Debug\netcoreapp3.1\291020.exe
+C:\Users\Андрей\source\repos\291020\291020\obj\Debug\netcoreapp3.1\291020.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\291020\291020\obj\Debug\netcoreapp3.1\291020.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\291020\291020\obj\Debug\netcoreapp3.1\291020.AssemblyInfo.cs
